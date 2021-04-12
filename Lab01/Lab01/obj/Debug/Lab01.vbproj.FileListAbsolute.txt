@@ -1,0 +1,12 @@
+C:\Users\tbchhetri\source\repos\Lab01\Lab01\bin\Debug\Lab01.exe.config
+C:\Users\tbchhetri\source\repos\Lab01\Lab01\bin\Debug\Lab01.exe
+C:\Users\tbchhetri\source\repos\Lab01\Lab01\bin\Debug\Lab01.pdb
+C:\Users\tbchhetri\source\repos\Lab01\Lab01\bin\Debug\Lab01.xml
+C:\Users\tbchhetri\source\repos\Lab01\Lab01\obj\Debug\Lab01.vbprojAssemblyReference.cache
+C:\Users\tbchhetri\source\repos\Lab01\Lab01\obj\Debug\Lab01.MainForm.resources
+C:\Users\tbchhetri\source\repos\Lab01\Lab01\obj\Debug\Lab01.Resources.resources
+C:\Users\tbchhetri\source\repos\Lab01\Lab01\obj\Debug\Lab01.vbproj.GenerateResource.cache
+C:\Users\tbchhetri\source\repos\Lab01\Lab01\obj\Debug\Lab01.vbproj.CoreCompileInputs.cache
+C:\Users\tbchhetri\source\repos\Lab01\Lab01\obj\Debug\Lab01.exe
+C:\Users\tbchhetri\source\repos\Lab01\Lab01\obj\Debug\Lab01.xml
+C:\Users\tbchhetri\source\repos\Lab01\Lab01\obj\Debug\Lab01.pdb

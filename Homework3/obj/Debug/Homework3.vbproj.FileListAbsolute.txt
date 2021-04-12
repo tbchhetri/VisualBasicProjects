@@ -1,0 +1,12 @@
+C:\Users\tbchhetri\source\repos\Homework3\bin\Debug\Homework3.exe.config
+C:\Users\tbchhetri\source\repos\Homework3\bin\Debug\Homework3.exe
+C:\Users\tbchhetri\source\repos\Homework3\bin\Debug\Homework3.pdb
+C:\Users\tbchhetri\source\repos\Homework3\bin\Debug\Homework3.xml
+C:\Users\tbchhetri\source\repos\Homework3\obj\Debug\Homework3.vbprojAssemblyReference.cache
+C:\Users\tbchhetri\source\repos\Homework3\obj\Debug\Homework3.Resources.resources
+C:\Users\tbchhetri\source\repos\Homework3\obj\Debug\Homework3.TicketSalesForm.resources
+C:\Users\tbchhetri\source\repos\Homework3\obj\Debug\Homework3.vbproj.GenerateResource.cache
+C:\Users\tbchhetri\source\repos\Homework3\obj\Debug\Homework3.vbproj.CoreCompileInputs.cache
+C:\Users\tbchhetri\source\repos\Homework3\obj\Debug\Homework3.exe
+C:\Users\tbchhetri\source\repos\Homework3\obj\Debug\Homework3.xml
+C:\Users\tbchhetri\source\repos\Homework3\obj\Debug\Homework3.pdb
