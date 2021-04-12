@@ -50,6 +50,15 @@ Partial Public Class _Default
     Protected WithEvents rvQuantityTextBox As Global.System.Web.UI.WebControls.RangeValidator
     
     '''<summary>
+    '''DiscountTotalHiddenField control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents DiscountTotalHiddenField As Global.System.Web.UI.WebControls.HiddenField
+    
+    '''<summary>
     '''TitleTextBox control.
     '''</summary>
     '''<remarks>
@@ -104,6 +113,15 @@ Partial Public Class _Default
     Protected WithEvents ExtendedPriceTextBox As Global.System.Web.UI.WebControls.TextBox
     
     '''<summary>
+    '''Label1 control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents Label1 As Global.System.Web.UI.WebControls.Label
+    
+    '''<summary>
     '''DiscountTextBox control.
     '''</summary>
     '''<remarks>
@@ -111,6 +129,15 @@ Partial Public Class _Default
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents DiscountTextBox As Global.System.Web.UI.WebControls.TextBox
+    
+    '''<summary>
+    '''DiscountTotalTextBox control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents DiscountTotalTextBox As Global.System.Web.UI.WebControls.TextBox
     
     '''<summary>
     '''DiscountedPriceTextBox control.

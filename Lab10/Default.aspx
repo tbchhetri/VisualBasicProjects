@@ -40,9 +40,22 @@
             width: 308px;
             height: 28px;
         }
+        .auto-style18 {
+            width: 133px;
+            text-align: right;
+            height: 27px;
+        }
+        .auto-style19 {
+            width: 554px;
+            height: 27px;
+        }
+        .auto-style20 {
+            width: 308px;
+            height: 27px;
+        }
     </style>
 </head>
-<body bgcolor ="#000000">
+<body bgcolor ="#008080">
     <form id="form1" runat="server">
         <div>
             <table class="auto-style1">
@@ -61,7 +74,9 @@
                         <asp:RequiredFieldValidator ID="rfvQuantityTextBox" runat="server" ControlToValidate="QuantityTextBox" ErrorMessage="Enter a quantity you must." Font-Bold="True" Font-Underline="False" ForeColor="Red">&lt;------</asp:RequiredFieldValidator>
                         <asp:RangeValidator ID="rvQuantityTextBox" runat="server" ControlToValidate="QuantityTextBox" ErrorMessage="Your Quantity needs to be between 1-200" ForeColor="Red" MaximumValue="200" MinimumValue="1" Type="Integer">Btwn 1-200 plz</asp:RangeValidator>
                     </td>
-                    <td class="auto-style14">&nbsp;</td>
+                    <td class="auto-style14">
+                        <asp:HiddenField ID="DiscountTotalHiddenField" runat="server" Value="0" />
+                    </td>
                 </tr>
                 <tr>
                     <td aria-readonly="True" class="auto-style11">Title:</td>
@@ -86,14 +101,18 @@
                     <td class="auto-style6">
                         <asp:TextBox ID="ExtendedPriceTextBox" runat="server" ReadOnly="True"></asp:TextBox>
                     </td>
-                    <td class="auto-style14">&nbsp;</td>
+                    <td class="auto-style14">
+                        <asp:Label ID="Label1" runat="server" ForeColor="White" Text="Total Discount"></asp:Label>
+                    </td>
                 </tr>
                 <tr>
-                    <td aria-readonly="True" class="auto-style11">15% Discount:</td>
-                    <td class="auto-style6">
+                    <td aria-readonly="True" class="auto-style18">15% Discount:</td>
+                    <td class="auto-style19">
                         <asp:TextBox ID="DiscountTextBox" runat="server" ReadOnly="True"></asp:TextBox>
                     </td>
-                    <td class="auto-style14">&nbsp;</td>
+                    <td class="auto-style20">
+                        <asp:TextBox ID="DiscountTotalTextBox" runat="server"></asp:TextBox>
+                    </td>
                 </tr>
                 <tr>
                     <td aria-readonly="True" class="auto-style11">Discounted Price:</td>
