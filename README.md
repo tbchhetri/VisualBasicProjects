@@ -1,4 +1,4 @@
-# [File Descriptions](https://www.condesigns.com/)
+# [FILE DESCRIPTION](https://www.condesigns.com/)
 
 # Homework2 - COVID-19 Temperature Recorder
 
@@ -79,3 +79,74 @@ Create a project to calculate the weekly salary and commission rate for a sales 
 - NO Autoimplemented properties
 - Results must match Runtime answers
 - All items in Code section above must be completed
+
+#Homework5 - Calorie Calculator 
+
+## Task:
+-Create a website that calculates the total of fat, carbohydrate, and protein calories. Allow the user to enter (in text boxes) the grams of fat, the grams of carbohydrates, and the grams of protein. Each gram of fat is nine calories; a gram of protein or carbohydrate is four calories.
+
+## Code: 
+- You  MUST use a custom class
+  - This class must contain properties for Fat, Carbs, and Protein.
+  - Your class must have a function to return ItemCalories
+  - ItemCalories should equal Fat * 9 + Cards * 4 + Protein * 4
+  - Your class MUST contain one constructor to initialize the properties.
+- You must have required field validators for Fat, Carbs and Protein
+- You must validate the range of Fat, Carbs, and Protein between 1 and 1000
+- You must have a calculate button that:
+  - Creates an instance of your class using the overloaded constructor
+  - Displays resulting output from calculation
+  - Displays totals on the screen 
+- You must have a Clear button to clear individual calculations 
+- Accumulate totals for number of calculations and total calories
+- HINT: Use HiddenFields to store the totals in between page posts. You cannot use shared variables for this. 
+
+## For Full Credit:
+- Program must be well documented and controls well named according to standards.
+- Data must be validated and formatted appropriately
+- Results must match Runtime answers
+- All items in Code section above must be completed 
+
+# Lab01 - Random Sayings
+
+- Write a project that displays four sayings, such as "The early bird gets the worm" or "A penny saved is a penny earned." (You will want to keep the sayings short, as each must be entered on one line.)  When the sayings displays on your form, long lines will run off the form if the label's AutoSize property is set to True.  To wrap text within the label, change the AutoSize property to False and use the sizing handles to make the label large enough. 
+  - Make a button for each saying with a descriptive Text property for each, a button to print, and a button to exit the project.
+  - Include a label that holds your name at the bottom of the form.  Also, make sure to change the form's title bar to something meaningful.
+  - You may change the Font properties of the large label to the font and size of your choice.
+  - Make sure the buttons are large enough to hold their entire Text properties.
+- Be sure to include comments at the top of each procedure and at the top of the file.
+- Be sure to use meaningful names for all buttons and labels.
+
+# Lab10 - Book Sale Application 
+  
+- Be sure to include comments at the top of each procedure and at the top of the file.
+- Be sure to use meaningful names for all buttons and labels. 
+- R 'n R has decided to start selling books online. Create a web site to calculate the amount due, including discounts. Allow the user to display the total of the discounts. 
+
+ - The user enters the quantity, title, and price of a book, and the program calculates the extended price, a 15 percent discount, and the discounted price.  
+
+  - The input must be validated. The quantity and price are required fields, and the quantity must be an integer between 1 and 100. 
+
+  - Additionally, the program will maintain a total of all discounts given and display that total on the page in response to a button cick.  
+
+  - Include a second page for contact information..
+
+
+- Use a custom class for the BookSale including Title, Quantity, Price, ExtendedPrice, Discount
+
+# Lab11 - Contact Form
+
+- Be sure to include comments at the top of each procedure and at the top of the file.
+- Be sure to use meaningful names for all buttons and labels. 
+- Implement a web based contact form.  It should consist of 2 pages:
+
+- Default page with contact form on it
+  - Panel 1
+    - Ask for name (Required), email address (required and pattern match), phone number (pattern match), contact via, comments
+    - Form should have a validation summary on it
+    - When submitted, create a subroutine to send email to your email address with the results of the contact form using System.Net.Mail library
+    - Once submitted, set a cookie to prevent duplicate submissions
+  - Panel 2
+    - This panel will appear if the page is loaded and the duplicate cookie was already set.
+    - Thank you page with an image
+- REMEMBER, if you can't submit the project, remove the Bin and Packages folders from your archive if they exist
