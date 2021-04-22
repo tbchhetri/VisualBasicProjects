@@ -1,11 +1,11 @@
 # [FILE DESCRIPTION](https://www.condesigns.com/)
 
-# COVID-19 Temperature Recorder
+# **[COVID-19 Temperature Recorder](/Covid19%20Temp%20Recorder%20h2)**. 
 
-**Task:**\
+## Task:
 Develop a program to record 2 weeks of temperature readings and give a diagnosis of the average temperature.
 
-**Form:**
+## Form:
 - Use a textbox to record a reading from the end user and a listbox to record each valid reading.
 - Use textbox to display the last temperature recorded and a diagnosis
 - Use textboxes to display the 14 day average based on data stored in the listbox
