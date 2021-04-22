@@ -1,6 +1,6 @@
 # [FILE DESCRIPTION](https://www.condesigns.com/)
 
-# Homework2 - COVID-19 Temperature Recorder
+# COVID-19 Temperature Recorder
 
 ## Task:
 Develop a program to record 2 weeks of temperature readings and give a diagnosis of the average temperature.
@@ -31,7 +31,7 @@ Develop a program to record 2 weeks of temperature readings and give a diagnosis
 - Use the same set of data for your program and the Runtime.  They must match.
 - Record and Clear buttons must be functional
 
-# Homework4 - Sales Person Calculator
+# Sales Person Calculator
 
 ## Task:
 Create a project to calculate the weekly salary and commission rate for a sales person based on their weekly sales. Provide a summary of the running totals of the weekly salary and commissions paid and an About Box.
@@ -80,7 +80,7 @@ Create a project to calculate the weekly salary and commission rate for a sales 
 - Results must match Runtime answers
 - All items in Code section above must be completed
 
-#Homework5 - Calorie Calculator 
+# Calorie Calculator 
 
 ## Task:
 -Create a website that calculates the total of fat, carbohydrate, and protein calories. Allow the user to enter (in text boxes) the grams of fat, the grams of carbohydrates, and the grams of protein. Each gram of fat is nine calories; a gram of protein or carbohydrate is four calories.
@@ -107,7 +107,7 @@ Create a project to calculate the weekly salary and commission rate for a sales 
 - Results must match Runtime answers
 - All items in Code section above must be completed 
 
-# Lab01 - Random Sayings
+# Random Sayings
 
 - Write a project that displays four sayings, such as "The early bird gets the worm" or "A penny saved is a penny earned." (You will want to keep the sayings short, as each must be entered on one line.)  When the sayings displays on your form, long lines will run off the form if the label's AutoSize property is set to True.  To wrap text within the label, change the AutoSize property to False and use the sizing handles to make the label large enough. 
   - Make a button for each saying with a descriptive Text property for each, a button to print, and a button to exit the project.
@@ -117,7 +117,7 @@ Create a project to calculate the weekly salary and commission rate for a sales 
 - Be sure to include comments at the top of each procedure and at the top of the file.
 - Be sure to use meaningful names for all buttons and labels.
 
-# Lab10 - Book Sale Application 
+# Book Sale Application l10
   
 - Be sure to include comments at the top of each procedure and at the top of the file.
 - Be sure to use meaningful names for all buttons and labels. 
@@ -134,7 +134,7 @@ Create a project to calculate the weekly salary and commission rate for a sales 
 
 - Use a custom class for the BookSale including Title, Quantity, Price, ExtendedPrice, Discount
 
-# Lab11 - Contact Form
+# Contact Form l11
 
 - Be sure to include comments at the top of each procedure and at the top of the file.
 - Be sure to use meaningful names for all buttons and labels. 
@@ -151,7 +151,7 @@ Create a project to calculate the weekly salary and commission rate for a sales 
     - Thank you page with an image
 - REMEMBER, if you can't submit the project, remove the Bin and Packages folders from your archive if they exist
 
-# Lab12 - Books Viewer
+# Books Viewer l12
    
 - Be sure to include comments at the top of each procedure and at the top of the file.
 - Be sure to use meaningful names for all buttons and labels. 
@@ -159,14 +159,14 @@ Create a project to calculate the weekly salary and commission rate for a sales 
 
 - Display 15 records per page and enable paging.
 
-# Lab04 - Banking Account
+# Banking Account l4
   
 
 - Be sure to include comments at the top of each procedure and at the top of the file.
 - Be sure to use meaningful names for all buttons and labels.
 - In this lab you will create a simple banking application that will accept deposits, checks, and service charges. If the user tries to withdraw more money than is available, the withdrawal will fail and a service charge of $10 will be applied. You will also keep track of the number and amount of the deposits, withdrawals, and service charges.
 
-# Lab05 - Banking Account with Methods
+# Banking Account with Methods l5
   
 - Be sure to include comments at the top of each procedure and at the top of the file.
 - Be sure to use meaningful names for all buttons and labels.
@@ -176,8 +176,10 @@ Create a project to calculate the weekly salary and commission rate for a sales 
   - ServiceCharge : one parameter byref representing balance, second optional parameter for amount with default being 10
   - Withdraw :  one parameter representing the amount to balance, one parameter representing the amount to withdraw, returns new balance amount
   
-# Lab 9 - BookSale App with Students 
+# BookSale App l9
    
 - Be sure to include comments at the top of each procedure and at the top of the file.
 - Be sure to use meaningful names for all buttons and labels.
 - Write a program that computes the values for a book sale using an external classes using inheritance.  
+
+
