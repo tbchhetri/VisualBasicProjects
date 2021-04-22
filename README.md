@@ -2,7 +2,7 @@
 
 # COVID-19 Temperature Recorder
 
-## Task:
+**Task:**
 Develop a program to record 2 weeks of temperature readings and give a diagnosis of the average temperature.
 
 ## Form: 
