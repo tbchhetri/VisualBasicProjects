@@ -150,3 +150,34 @@ Create a project to calculate the weekly salary and commission rate for a sales 
     - This panel will appear if the page is loaded and the duplicate cookie was already set.
     - Thank you page with an image
 - REMEMBER, if you can't submit the project, remove the Bin and Packages folders from your archive if they exist
+
+# Lab12 - Books Viewer
+   
+- Be sure to include comments at the top of each procedure and at the top of the file.
+- Be sure to use meaningful names for all buttons and labels. 
+- Create a web application to display the Books table in the RNR Books MDB file.
+
+- Display 15 records per page and enable paging.
+
+# Lab04 - Banking Account
+  
+
+- Be sure to include comments at the top of each procedure and at the top of the file.
+- Be sure to use meaningful names for all buttons and labels.
+- In this lab you will create a simple banking application that will accept deposits, checks, and service charges. If the user tries to withdraw more money than is available, the withdrawal will fail and a service charge of $10 will be applied. You will also keep track of the number and amount of the deposits, withdrawals, and service charges.
+
+# Lab05 - Banking Account with Methods
+  
+- Be sure to include comments at the top of each procedure and at the top of the file.
+- Be sure to use meaningful names for all buttons and labels.
+- In this lab you will create a simple banking application that will accept deposits, checks, and service charges. If the user tries to withdraw more money than is available, the withdrawal will fail and a service charge of $10 will be applied. You will also keep track of the number and amount of the deposits, withdrawals, and service charges.
+- Program should have at least 3 methods
+  - Deposit : one parameter representing the amount to deposit
+  - ServiceCharge : one parameter byref representing balance, second optional parameter for amount with default being 10
+  - Withdraw :  one parameter representing the amount to balance, one parameter representing the amount to withdraw, returns new balance amount
+  
+# Lab 9 - BookSale App with Students 
+   
+- Be sure to include comments at the top of each procedure and at the top of the file.
+- Be sure to use meaningful names for all buttons and labels.
+- Write a program that computes the values for a book sale using an external classes using inheritance.  
