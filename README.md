@@ -1,6 +1,6 @@
 # [FILE DESCRIPTION](https://www.condesigns.com/)
 
-# **[COVID-19 Temperature Recorder](/Covid19%20Temp%20Recorder%20h2)**. 
+# **[COVID-19 Temperature Recorder](https://github.com/tbchhetri/VisualBasicProjects/tree/master/Covid19%20Temp%20Recorder%20h2)** 
 
 ## Task:
 Develop a program to record 2 weeks of temperature readings and give a diagnosis of the average temperature.
