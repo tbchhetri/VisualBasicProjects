@@ -182,4 +182,24 @@ Create a project to calculate the weekly salary and commission rate for a sales 
 - Be sure to use meaningful names for all buttons and labels.
 - Write a program that computes the values for a book sale using an external classes using inheritance.  
 
+# Commission Calculator l6
+   
+- Be sure to include comments at the top of each procedure and at the top of the file.
+- Be sure to use meaningful names for all buttons and labels.
 
+- Use a one-dimensional array to solve the following problem: A company pays its sales people on a commission basis. The sales people receive $250 per week, plus 15% of their gross sales for the week. For example, a sales person who grosses $1,000 in sales in a week receives $250 plus 15% of $1,000, a total of $400. Write an app that determines how many of the sales people earned salaries in each of the following ranges $100-199, $200-299, $300-399, $400-499, $500-599, $600-699, $700-799, $800-899, $900-999, and over $999.
+
+- Allow the user to enter the sales for each employee in a text box. The user clicks the Calculate button to calculate the sales person's salary.
+
+# StreamReaders l7
+   
+- Be sure to include comments at the top of each procedure and at the top of the file.
+- Be sure to use meaningful names for all buttons and labels.
+- Write a program to read in the delimited Sample Data file and determine which criteria to match.
+
+# BookSale App l8
+   
+
+- Be sure to include comments at the top of each procedure and at the top of the file.
+- Be sure to use meaningful names for all buttons and labels.
+- Write a program that computes the values for a book sale using an external class.
